@@ -1,11 +1,11 @@
-#Beahavioral-LD_task-analysis
+# Beahavioral-LD_task-analysis
 
-# This project presents analysis for behavioral data of Lexical Decision (LD) task in Hebrew.
+This project presents analysis for behavioral data of Lexical Decision (LD) task in Hebrew.
 In the LD task participants are exposed to a visual string of letters, one string at a time, appearing on a computer screen.
 Participants are instructed to press one button if the letter string represents an existing word, and another if it does not.
 Participant's Reaction times (RT's) are measured.
 
-# The project aim to test wheather reaction time to words differs from reaction time to nonwords. It is done using permutation and Bayesian hierarchical model 
+The project aim to test wheather reaction time to words differs from reaction time to nonwords. It is done using permutation and Bayesian hierarchical model 
 
 LD_data-
   Subject-the subject's number
