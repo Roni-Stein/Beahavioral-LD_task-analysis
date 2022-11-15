@@ -22,9 +22,9 @@ There are 35 subjects, each one has 1000 datapoints.
 
 Lexical_Decision_analysis- 
   
-    Visualizations of raw data- has 2 visualizations demonstrating the difference of RT's between words and nonwords
+   Visualizations of raw data- has 2 visualizations demonstrating the difference of RT's between words and nonwords
     
-    Statistical analysis- permutation and Bayesian hierarchical model using JAGS. Diagnistics of the model are also presented.
+   Statistical analysis- permutation and Bayesian hierarchical model using JAGS. Diagnistics of the model are also presented.
     
-    Results visualization- visualizations of the permutation anf the Bayesian hierarchical model results.
+   Results visualization- visualizations of the permutation anf the Bayesian hierarchical model results.
     
