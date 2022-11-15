@@ -8,10 +8,9 @@ library(rjags)
 library(runjags)
 source("DBDA2E-utilities.R")
 
-# Write data file location here
+# Write folder path here
 setwd("######")
-# Notice that if you want to see the Hebrew words in R you need to 
-# change the R coding to UTF-8
+# Notice that if you want to see the Hebrew words in R you need to change the R coding to UTF-8
 
 ## Uploading the data
 data <- read_xlsx('LD_data.xlsx')
